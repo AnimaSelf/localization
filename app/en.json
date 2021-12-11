@@ -1,0 +1,459 @@
+{
+  "general": {
+    "log_in": "Log In",
+    "log_out": "Log Out",
+    "log_out_question": "Log Out?",
+    "log_out_confirm": "Are you sure you want to log out?",
+    "cancel": "Cancel",
+    "register": "Register",
+    "hide": "Hide",
+    "ok": "OK"
+  },
+
+  "landing": {
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "password_confirm": "Confirm Password",
+    "or": "Or"
+  },
+
+  "datetime": {
+    "yesterday": "Yesterday",
+    "today": "Today",
+    "tomorrow": "Tomorrow"
+  },
+
+  "auth": {
+    "blank": "Must not be blank",
+    "invalid_name": "Invalid name",
+    "invalid_email": "Invalid email",
+    "invalid_phone_number": "Invalid phone number",
+    "invalid_password": "Invalid password",
+    "password_do_not_match": "Passwords don't match",
+
+    "_COMMENT": "FIREBASE-BASED LOCALIZATION",
+    "weak-password": "Weak password",
+    "email-already-in-use": "Email already in use",
+    "user-not-found": "User not found",
+    "wrong-password": "Wrong password",
+    "too-many-requests": "Too many requests"
+  },
+
+  "self": {
+    "self": "My Inner Self",
+
+    "today": {
+      "today": "Today",
+
+      "$day.morning": "Morning",
+      "$day.afternoon": "Afternoon",
+      "$day.evening": "Evening",
+      "$day.night": "Night",
+      "greeting": "Good $day, $pFirstName",
+
+      "check_in": "Check in",
+      "perspective": "Perspective",
+      "insight": "Insight",
+      "check_out": "Check out"
+    },
+
+    "discover": {
+      "discover": "Discover"
+    },
+
+    "journal": {
+      "journal": "Journal"
+    }
+  },
+
+  "community": {
+    "community": "Community"
+  },
+
+  "lifestyle": {
+    "lifestyle": "Lifestyle"
+  },
+
+  "profile": {
+    "profile": "Profile",
+
+    "avatar": {
+      "avatar": "Avatar",
+      "setup": "First, let's get you set up!",
+      "change": "Change your Anima",
+      "introduction": "Your avatar represents your individual unconscious mind in order to create a relationshipwith your own feelings when you use the app. This avatar is called an Anima.",
+      "pick": "Pick an Anima that you associate yourself with",
+      "apply": "Apply",
+      "full_customization": "Full Customization ➜"
+    },
+
+    "stats": {
+      "view_more": "More Insights ➜"
+    },
+
+    "refer": "Refer a Friend",
+    "support": "Help and Support",
+    "privacy": "Privacy"
+  },
+
+  "settings": {
+    "settings": "Settings",
+
+    "ui": {
+      "ui": "User Interface",
+      "language": "Language",
+      "dark_theme": "Dark Theme"
+    },
+
+    "notifications": {
+      "notifications": "Notifications"
+    }
+  },
+
+  "points": {
+    "points": "Self",
+
+    "quantity": "$pPoints Self Points"
+  },
+
+  "level": {
+    "level": "Level",
+
+    "level_desc": "Level $level",
+    "level_desc_cat": "Level $level ($category)",
+    "level_desc_cat_long": "You Are $level ($category)!",
+    "level_desc_cat_short": "$level ($category)",
+
+    "progress": "Progress",
+    "progress_desc": "$points Self Until $nextLevel ($levelProgress %)",
+
+    "category": {
+      "category": "Category",
+
+      "baby": "Anima Baby",
+      "teen": "Anima Teen",
+      "adult": "Anima Adult",
+      "elder": "Anima Elder"
+    }
+  },
+
+  "screening": {
+    "questionnaire": "Medical Questionnaire",
+    "prompt": "We would appreciate it if you could answer a few basic medical questions for us. It should only take about a minute. We promise!",
+    "more_info_button": "What is this?",
+    "more_info": "Further info on questionnaire!",
+    "yes": "I'm ready!",
+    "no": "Maybe another time",
+    "thanks": "Thank You!",
+    "restart": "Restart Questionnaire",
+
+    "question": "Over the last 2 weeks, how often have you been bothered by the following problem?",
+
+    "problem": {
+      "0": "(1/4) Little interest or pleasure in doing everyday things",
+      "1": "(2/4) Feeling down, depressed or hopeless",
+      "2": "(3/4) Feeling nervous, anxious or on edge",
+      "3": "(4/4) Not being able to stop or control worrying"
+    },
+
+    "answer": {
+      "0": "Not at all",
+      "1": "Several days",
+      "2": "More than half of the days",
+      "3": "Nearly every day"
+    }
+  },
+
+  "insight": {
+    "insights": "Insights",
+
+    "planets_unlocked": "Planets Unlocked",
+    "planets_unlocked_desc": "planets_unlocked_desc",
+
+    "rings_unlocked": "Rings Unlocked",
+    "rings_unlocked_desc": "rings_unlocked_desc",
+
+    "moons_unlocked": "Moons Unlocked",
+    "moons_unlocked_desc": "moons_unlocked_desc",
+
+    "log_ins": "Times Logged In",
+    "log_ins_desc": "You logged in $insight times",
+
+    "consecutive_log_ins": "Log In Streak",
+    "consecutive_log_ins_desc": "consecutive_log_ins_desc",
+
+    "most_consecutive_log_ins": "Log In Streak Record",
+    "most_consecutive_log_ins_desc": "most_consecutive_log_ins_desc",
+
+    "modules_completed": "Modules Completed",
+    "modules_completed_desc": "modules_completed_desc",
+
+    "sessions_completed": "Sessions Completed",
+    "sessions_completed_desc": "sessions_completed_desc",
+
+    "reflection_word_count": "Reflection Word Count Record",
+    "reflection_word_count_desc": "reflection_word_count_desc",
+
+    "creation_date": "Signed Up",
+    "creation_date_desc": "creation_date_desc",
+
+    "last_log_in_date": "Last Log In",
+    "last_log_in_date_desc": "last_log_in_date_desc",
+
+    "mood_history": {
+      "mood_history": "Mood History",
+
+      "mood_over_time": "Your Mood Over Time"
+    },
+
+    "emotion_history": {
+      "emotion_history": "Emotion History",
+
+      "dominant_emotions": "Dominant Emotions"
+    },
+
+    "stats": {
+      "stats": "Statistics",
+
+      "insights": "Insights",
+      "awards": "Awards & Self Levelling",
+      "journalling": "Journalling",
+      "media_interaction": "Media Interaction",
+      "profile_data": "Profile Data"
+    }
+  },
+
+  "award": {
+    "awards": "Awards",
+
+    "unlocked": "Awards Unlocked",
+    "unlocked_secret": "Secret Awards Unlocked",
+    "unlocked_desc": "$unlocked / $total",
+    "awarded": "Awarded: $award",
+    "awarded_with_points": "Awarded (+$points): $award",
+    "reward": "Reward: $points Self",
+    "secret": "Secret Award",
+    "secret_marks": "???",
+
+    "tier": {
+      "description": "Award Tier: $tier",
+
+      "bronze": "Bronze",
+      "silver": "Silver",
+      "gold": "Gold",
+      "platinum": "Platinum"
+    },
+
+    "customize_anima": "Anima Customizer",
+    "customize_anima_desc": "Create a version of your innerself by customizing your Anima avatar.",
+
+    "complete_medical_questionnaire": "Medical Questionnaire Completer",
+    "complete_medical_questionnaire_desc": "Complete the medical questionnaire.",
+
+    "beta_tester": "Beta Tester",
+    "beta_tester_desc": "Participate in the beta testing of Anima Self.",
+
+    "kickstarter_supporter": "Kickstarter",
+    "kickstarter_supporter_desc": "Participate in the kickstarting of Anima Self.",
+
+    "anniversary_log_in": "Birthday Guest",
+    "anniversary_log_in_desc": "Log in to Anima Self on its anniversary.",
+
+    "anima_interactor": "Anima Interactor",
+    "anima_interactor_desc": "Poke Your Inner Self.",
+
+    "integrate_health_monitor_device": "Self-Care-Taker",
+    "integrate_health_monitor_device_desc": "Integrate a Health Monitoring Device with Anima Self.",
+
+    "chat_with_member": "Conversationalist",
+    "chat_with_member_desc": "Have a conversation with a different member of Anima Self.",
+
+    "unlock_component": "Component Discoverer",
+    "unlock_component_desc": "Unlock a component for your Anima.",
+
+    "unlock_planet_3": "Cosmos Explorer I",
+    "unlock_planet_3_desc": "Unlock 3 planets.",
+
+    "unlock_planet_6": "Cosmos Explorer II",
+    "unlock_planet_6_desc": "Unlock 6 planets.",
+
+    "unlock_planet_10": "Cosmos Explorer III",
+    "unlock_planet_10_desc": "Unlock 10 planets.",
+
+    "unlock_planet_15": "Cosmos Explorer IV",
+    "unlock_planet_15_desc": "Unlock 15 planets.",
+
+    "unlock_ring_3": "Space Jewellery I",
+    "unlock_ring_3_desc": "Unlock 3 planet rings.",
+
+    "unlock_ring_6": "Space Jewellery II",
+    "unlock_ring_6_desc": "Unlock 6 planet rings.",
+
+    "unlock_ring_10": "Space Jewellery III",
+    "unlock_ring_10_desc": "Unlock 10 planet rings.",
+
+    "unlock_ring_15": "Space Jewellery IV",
+    "unlock_ring_15_desc": "Unlock 15 planet rings.",
+
+    "unlock_moon_3": "Moon Whisperer I",
+    "unlock_moon_3_desc": "Unlock 3 moons.",
+
+    "unlock_moon_6": "Moon Whisperer II",
+    "unlock_moon_6_desc": "Unlock 6 moons.",
+
+    "unlock_moon_10": "Moon Whisperer III",
+    "unlock_moon_10_desc": "Unlock 10 moons.",
+
+    "unlock_moon_15": "Moon Whisperer IV",
+    "unlock_moon_15_desc": "Unlock 15 moons.",
+
+    "log_ins_3": "Self-Loyalty I",
+    "log_ins_3_desc": "Log in to the Anima Self 3 times.",
+
+    "log_ins_5": "Self-Loyalty II",
+    "log_ins_5_desc": "Log in to the Anima Self 5 times.",
+
+    "log_ins_10": "Self-Loyalty III",
+    "log_ins_10_desc": "Log in to the Anima Self 10 times.",
+
+    "log_ins_25": "Self-Loyalty IV",
+    "log_ins_25_desc": "Log in to the Anima Self 25 times.",
+
+    "log_ins_50": "Self-Loyalty V",
+    "log_ins_50_desc": "Log in to the Anima Self 50 times.",
+
+    "log_ins_100": "Self-Loyalty VI",
+    "log_ins_100_desc": "Log in to the Anima Self 100 times.",
+
+    "log_ins_250": "Self-Loyalty VII",
+    "log_ins_250_desc": "Log in to the Anima Self 250 times.",
+
+    "log_ins_500": "Self-Loyalty VIII",
+    "log_ins_500_desc": "Log in to the Anima Self 500 times.",
+
+    "log_ins_1000": "Self-Loyalty IX",
+    "log_ins_1000_desc": "Log in to the Anima Self 1000 times.",
+
+    "log_ins_2000": "Self-Loyalty X",
+    "log_ins_2000_desc": "Log in to the Anima Self 2000 times.",
+
+    "log_ins_5000": "Self-Loyalty XI",
+    "log_ins_5000_desc": "Log in to the Anima Self 5000 times.",
+
+    "consecutive_log_ins_3": "Dedication to Self I",
+    "consecutive_log_ins_3_desc": "Log in to Anima Self for 3 days in a row.",
+
+    "consecutive_log_ins_5": "Dedication to Self II",
+    "consecutive_log_ins_5_desc": "Log in to Anima Self for 5 days in a row.",
+
+    "consecutive_log_ins_10": "Dedication to Self III",
+    "consecutive_log_ins_10_desc": "Log in to Anima Self for 10 days in a row.",
+
+    "consecutive_log_ins_20": "Dedication to Self IV",
+    "consecutive_log_ins_20_desc": "Log in to Anima Self for 20 days in a row.",
+
+    "consecutive_log_ins_30": "Dedication to Self V",
+    "consecutive_log_ins_30_desc": "Log in to Anima Self for 30 days in a row.",
+
+    "consecutive_log_ins_60": "Dedication to Self VI",
+    "consecutive_log_ins_60_desc": "Log in to Anima Self for 60 days in a row.",
+
+    "consecutive_log_ins_90": "Dedication to Self VII",
+    "consecutive_log_ins_90_desc": "Log in to Anima Self for 90 days in a row.",
+
+    "consecutive_log_ins_180": "Dedication to Self VIII",
+    "consecutive_log_ins_180_desc": "Log in to Anima Self for 180 days in a row.",
+
+    "consecutive_log_ins_270": "Dedication to Self IX",
+    "consecutive_log_ins_270_desc": "Log in to Anima Self for 270 days in a row.",
+
+    "consecutive_log_ins_365": "Dedication to Self X",
+    "consecutive_log_ins_365_desc": "Log in to Anima Self for 365 days in a row.",
+
+    "modules_completed_1": "Module Completer I",
+    "modules_completed_1_desc": "Complete 1 module.",
+
+    "modules_completed_10": "Module Completer II",
+    "modules_completed_10_desc": "Complete 10 modules.",
+
+    "modules_completed_25": "Module Completer III",
+    "modules_completed_25_desc": "Complete 25 modules.",
+
+    "modules_completed_50": "Module Completer IV",
+    "modules_completed_50_desc": "Complete 50 modules.",
+
+    "modules_completed_100": "Module Completer V",
+    "modules_completed_100_desc": "Complete 100 modules.",
+
+    "modules_completed_200": "Module Completer VI",
+    "modules_completed_200_desc": "Complete 200 modules.",
+
+    "modules_completed_300": "Module Completer VII",
+    "modules_completed_300_desc": "Complete 300 modules.",
+
+    "modules_completed_400": "Module Completer VIII",
+    "modules_completed_400_desc": "Complete 400 modules.",
+
+    "modules_completed_500": "Module Completer IX",
+    "modules_completed_500_desc": "Complete 500 modules.",
+
+    "modules_completed_1000": "Module Completer X",
+    "modules_completed_1000_desc": "Complete 1000 modules.",
+
+    "sessions_completed_1": "Session Completer I",
+    "sessions_completed_1_desc": "Complete 1 session.",
+
+    "sessions_completed_3": "Session Completer II",
+    "sessions_completed_3_desc": "Complete 3 sessions.",
+
+    "sessions_completed_5": "Session Completer III",
+    "sessions_completed_5_desc": "Complete 5 sessions.",
+
+    "sessions_completed_10": "Session Completer IV",
+    "sessions_completed_10_desc": "Complete 10 sessions.",
+
+    "sessions_completed_25": "Session Completer V",
+    "sessions_completed_25_desc": "Complete 25 sessions.",
+
+    "sessions_completed_50": "Session Completer VI",
+    "sessions_completed_50_desc": "Complete 50 sessions.",
+
+    "sessions_completed_100": "Session Completer VII",
+    "sessions_completed_100_desc": "Complete 100 sessions.",
+
+    "sessions_completed_200": "Session Completer VIII",
+    "sessions_completed_200_desc": "Complete 200 sessions.",
+
+    "sessions_completed_300": "Session Completer IX",
+    "sessions_completed_300_desc": "Complete 300 sessions.",
+
+    "sessions_completed_500": "Session Completer X",
+    "sessions_completed_500_desc": "Complete 500 sessions.",
+
+    "reflection_word_count_20": "Reflective Thinker I",
+    "reflection_word_count_20_desc": "Write 20 or more words in a reflective journalling exercise.",
+
+    "reflection_word_count_50": "Reflective Thinker II",
+    "reflection_word_count_50_desc": "Write 50 or more words in a reflective journalling exercise.",
+
+    "reflection_word_count_200": "Reflective Thinker III",
+    "reflection_word_count_200_desc": "Write 200 or more words in a reflective journalling exercise.",
+
+    "reflection_word_count_500": "Reflective Thinker IV",
+    "reflection_word_count_500_desc": "Write 500 or more words in a reflective journalling exercise.",
+
+    "reflection_word_count_1000": "Reflective Thinker V",
+    "reflection_word_count_1000_desc": "Write 1000 or more words in a reflective journalling exercise."
+  },
+
+  "locale": {
+    "default": "Device Default ($language)",
+    "en": "English",
+    "es": "Spanish",
+    "ru": "Russian",
+    "lv": "Latvian",
+    "ie": "Irish",
+    "de": "German"
+  }
+}
